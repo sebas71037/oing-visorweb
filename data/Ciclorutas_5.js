@@ -1,0 +1,11 @@
+var json_Ciclorutas_5 = {
+"type": "FeatureCollection",
+"name": "Ciclorutas_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID_comuna": "0", "comuna": "10", "FID_mov_je": "28", "Condicion": "Propuesta", "Prioridad": "Alta", "NOMBRE_1": "Carrera 39, entre Calle 10 y 36", "id_condici": "2", "Shape_Leng": 3117.59482 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -76.535288077350316, 3.42076829239119 ], [ -76.531333498802042, 3.41947015511323 ], [ -76.528436306741042, 3.418520567515012 ], [ -76.527194651384178, 3.418167850300229 ], [ -76.525647198340678, 3.418451560136527 ], [ -76.523937456570735, 3.418764403943714 ], [ -76.522353986731133, 3.41906373940154 ], [ -76.522011739480817, 3.419118447420816 ], [ -76.52136955814268, 3.419237720595215 ], [ -76.521253567025596, 3.419252410523946 ] ] ] } },
+{ "type": "Feature", "properties": { "FID_comuna": "0", "comuna": "10", "FID_mov_je": "33", "Condicion": "Propuesta", "Prioridad": "Alta", "NOMBRE_1": "Calle 25-26, entre Av. 3N y Calle 36 (Autopista Oriental)", "id_condici": "2", "Shape_Leng": 7054.95758 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -76.521463554978794, 3.416141939196732 ], [ -76.522121140427743, 3.40997213090499 ] ], [ [ -76.522121140427743, 3.40997213090499 ], [ -76.522595281634125, 3.405523439648125 ] ] ] } },
+{ "type": "Feature", "properties": { "FID_comuna": "0", "comuna": "10", "FID_mov_je": "36", "Condicion": "Propuesta", "Prioridad": "Media", "NOMBRE_1": "Carrera 46, entre Calles 25 y Calle 36 (Autopista Oriental)", "id_condici": "2", "Shape_Leng": 429.56717 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -76.522121140427743, 3.40997213090499 ], [ -76.522020096079913, 3.4099639351192 ] ] ] } },
+{ "type": "Feature", "properties": { "FID_comuna": "0", "comuna": "10", "FID_mov_je": "46", "Condicion": "Propuesta", "Prioridad": "Alta", "NOMBRE_1": "Calle 25, entre Carreras 52 y 98", "id_condici": "2", "Shape_Leng": 3813.17009 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -76.522595281634125, 3.405523439648125 ], [ -76.522595538075009, 3.405521033553536 ] ] ] } }
+]
+}
